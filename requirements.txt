@@ -1,0 +1,14 @@
+# App / inferencia
+gradio
+pandas
+scikit-learn
+joblib
+requests
+
+# Scraping y procesamiento de datos
+beautifulsoup4
+
+# Notebook (EDA y entrenamiento)
+plotly
+scipy
+statsmodels

@@ -1,0 +1,422 @@
+marca,modelo,carroceria
+Agrale,Marruá,Utilitario
+Alfa Romeo,MiTo,Hatchback
+Alfa Romeo,Stelvio,SUV
+Audi,A1,Hatchback
+Audi,A1 Sportback,Hatchback
+Audi,A3 Sedán,Sedán
+Audi,A3 Sportback,Hatchback
+Audi,A4,Sedán
+Audi,A5 Coupé,Coupé
+Audi,A5 Sportback,Hatchback
+Audi,A6,Sedán
+Audi,A6 Allroad,Wagon
+Audi,Q2,SUV
+Audi,Q3,SUV
+Audi,Q5,SUV
+Audi,Q7,SUV
+Audi,Q8,SUV
+Audi,RS 3 Sportback,Hatchback
+Audi,TT Coupé,Coupé
+BAIC,BJ30,SUV
+BAIC,X35,SUV
+BAIC,X55 II,SUV
+BMW,M3 Sedán,Sedán
+BMW,M6 Coupé,Coupé
+BMW,Serie 1,Hatchback
+BMW,Serie 2 Convertible,Cabriolet
+BMW,Serie 2 Coupé,Coupé
+BMW,Serie 3 Coupé,Coupé
+BMW,Serie 3 Sedán,Sedán
+BMW,X1,SUV
+BMW,X3,SUV
+BMW,X4,SUV
+BMW,X5,SUV
+BMW,X6,SUV
+Chery,Face,Hatchback
+Chery,QQ,Hatchback
+Chery,Skin,Hatchback
+Chery,Tiggo,SUV
+Chery,Tiggo 2,SUV
+Chery,Tiggo 2 PRO,SUV
+Chery,Tiggo 3,SUV
+Chery,Tiggo 4 Hybrid,SUV
+Chery,Tiggo 5,SUV
+Chery,Tiggo 7 Pro Hybrid,SUV
+Chevrolet,Agile,Hatchback
+Chevrolet,Apache,Pickup
+Chevrolet,Astra,Hatchback
+Chevrolet,Aveo,Sedán
+Chevrolet,Blazer,SUV
+Chevrolet,C 10,Pickup
+Chevrolet,Captiva,SUV
+Chevrolet,Celta,Hatchback
+Chevrolet,Classic,Sedán
+Chevrolet,Classic Wagon,Wagon
+Chevrolet,Cobalt,Sedán
+Chevrolet,Corsa,Hatchback
+Chevrolet,Corsa Classic,Hatchback
+Chevrolet,Corsa Wagon,Wagon
+Chevrolet,Cruze,Sedán
+Chevrolet,Cruze 5,Hatchback
+Chevrolet,Cruze RS,Hatchback
+Chevrolet,Equinox,SUV
+Chevrolet,Meriva,Minivan
+Chevrolet,Montana,Pickup
+Chevrolet,Onix,Hatchback
+Chevrolet,Onix Joy,Hatchback
+Chevrolet,Onix Joy Plus,Sedán
+Chevrolet,Onix Plus,Sedán
+Chevrolet,Prisma,Sedán
+Chevrolet,Prisma Joy,Sedán
+Chevrolet,S 10,Pickup
+Chevrolet,Sonic,Hatchback
+Chevrolet,Sonic Sedán,Sedán
+Chevrolet,Spark,Hatchback
+Chevrolet,Spin,Minivan
+Chevrolet,Spin Activ,Minivan
+Chevrolet,Tracker,SUV
+Chevrolet,Trailblazer,SUV
+Chevrolet,Vectra,Sedán
+Chevrolet,Zafira,Minivan
+Chrysler,300,Sedán
+Citroën,Basalt,SUV
+Citroën,Berlingo Furgón,Furgón
+Citroën,Berlingo Multispace,Minivan
+Citroën,C-Elysée,Sedán
+Citroën,C3,Hatchback
+Citroën,C3 Aircross,SUV
+Citroën,C3 Picasso,Minivan
+Citroën,C3 XTR,Hatchback
+Citroën,C4,Hatchback
+Citroën,C4 Aircross,SUV
+Citroën,C4 Cactus,SUV
+Citroën,C4 Grand Picasso,Minivan
+Citroën,C4 Hatchback,Hatchback
+Citroën,C4 Lounge,Sedán
+Citroën,C4 MHEV,SUV
+Citroën,C4 Picasso,Minivan
+Citroën,C4 Spacetourer,Minivan
+Citroën,DS3,Hatchback
+Citroën,Jumper,Furgón
+Citroën,Jumpy,Furgón
+Citroën,Saxo,Hatchback
+Citroën,Xsara Picasso,Minivan
+DFSK,C31,Pickup
+DFSK,Glory 580,SUV
+DS,3,Hatchback
+DS,3 Crossback,SUV
+DS,4,Hatchback
+DS,7 Crossback,SUV
+DS,7 E-Tense,SUV
+Daihatsu,Cuore,Hatchback
+Daihatsu,Delta Furgon,Furgón
+Daihatsu,Feroza,SUV
+Dodge,Journey,SUV
+Dodge,Ram,Pickup
+FIAT,128,Clásico
+FIAT,147,Clásico
+FIAT,1500,Clásico
+FIAT,1600,Clásico
+FIAT,500,Hatchback
+FIAT,500X,SUV
+FIAT,600,Hatchback
+FIAT,600 HYBRID,Hatchback
+FIAT,800,Clásico
+FIAT,Argo,Hatchback
+FIAT,Bravo,Hatchback
+FIAT,Cronos,Sedán
+FIAT,Dobló Cargo,Furgón
+FIAT,Ducato,Furgón
+FIAT,Fastback,SUV
+FIAT,Fastback Abarth,SUV
+FIAT,Fiorino,Furgón
+FIAT,Grand Siena,Sedán
+FIAT,Idea,Minivan
+FIAT,Linea,Sedán
+FIAT,Mobi,Hatchback
+FIAT,Palio,Hatchback
+FIAT,Palio Fire,Hatchback
+FIAT,Palio Weekend,Wagon
+FIAT,Pulse,SUV
+FIAT,Pulse Abarth,SUV
+FIAT,Punto,Hatchback
+FIAT,Qubo,Furgón
+FIAT,Siena,Sedán
+FIAT,Siena Fire,Sedán
+FIAT,Strada,Pickup
+FIAT,Strada Adventure,Pickup
+FIAT,Strada Working,Pickup
+FIAT,Tipo Sedán,Sedán
+FIAT,Titano,Pickup
+FIAT,Toro,Pickup
+FIAT,Uno,Hatchback
+FIAT,Uno Fire,Hatchback
+Ford,Bronco,SUV
+Ford,Bronco Sport,SUV
+Ford,EcoSport,SUV
+Ford,Escort,Sedán
+Ford,Escort Rural,Wagon
+Ford,F-100,Pickup
+Ford,F-150,Pickup
+Ford,F-150 Raptor,Pickup
+Ford,F-350,Pickup
+Ford,F-4000,Camión
+Ford,Falcon,Clásico
+Ford,Fiesta,Hatchback
+Ford,Fiesta Kinetic,Hatchback
+Ford,Fiesta Kinetic Sedán,Sedán
+Ford,Fiesta Max,Hatchback
+Ford,Fiesta Max One,Hatchback
+Ford,Fiesta One,Hatchback
+Ford,Focus,Hatchback
+Ford,Focus Exe,Sedán
+Ford,Focus One,Hatchback
+Ford,Focus Sedán,Sedán
+Ford,Ka,Hatchback
+Ford,Ka +,Sedán
+Ford,Ka Freestyle,Hatchback
+Ford,Kuga,SUV
+Ford,Kuga Híbrida,SUV
+Ford,Maverick,Pickup
+Ford,Mondeo,Sedán
+Ford,Mustang,Coupé
+Ford,Orion,Sedán
+Ford,Ranger,Pickup
+Ford,Ranger Raptor,Pickup
+Ford,S-Max,Minivan
+Ford,Sierra,Sedán
+Ford,T,Clásico
+Ford,Taunus Coupé,Clásico
+Ford,Territory,SUV
+Ford,Transit,Furgón
+Ford,Transit Chasis,Furgón
+Foton,Aumark TM1 Cabina Doble,Camión
+Foton,Aumark TM1 Cabina Simple,Camión
+Geely,515 Sedán,Sedán
+Geely,Emgrand GS,SUV
+Geely,Emgrand X7 Sport,SUV
+Geely,LC,Hatchback
+Great Wall,Jolion,SUV
+Haval,H2,SUV
+Haval,H6 Pro HEV,SUV
+Honda,Accord,Sedán
+Honda,CR-V,SUV
+Honda,City,Sedán
+Honda,Civic,Sedán
+Honda,Fit,Hatchback
+Honda,HR-V,SUV
+Honda,WR-V,SUV
+Honda,ZR-V,SUV
+Hyundai,Coupé,Coupé
+Hyundai,Creta,SUV
+Hyundai,Genesis Coupé,Coupé
+Hyundai,H1,Minivan
+Hyundai,H100,Pickup
+Hyundai,HB20,Hatchback
+Hyundai,HD 72,Camión
+Hyundai,Santa Fe,SUV
+Hyundai,Santamo,Minivan
+Hyundai,Tucson,SUV
+Hyundai,i10,Hatchback
+Ika,Estanciera,Clásico
+Isuzu,Trooper,SUV
+Iveco,Daily Chasis,Camión
+JAC,S3,SUV
+JAC,S7,SUV
+Jeep,Cherokee,SUV
+Jeep,Commander,SUV
+Jeep,Compass,SUV
+Jeep,Grand Cherokee,SUV
+Jeep,Patriot,SUV
+Jeep,Renegade,SUV
+Jeep,Wrangler,SUV
+KIA,Carnival,Minivan
+KIA,K2500,Camión
+KIA,K2700,Camión
+KIA,Picanto,Hatchback
+KIA,Rio,Hatchback
+KIA,Sorento,SUV
+KIA,Soul,Hatchback
+KIA,Sportage,SUV
+Lifan,Foison,Pickup
+Lifan,MyWay,Hatchback
+Lifan,X50,SUV
+Lifan,X70,SUV
+MG,3,Hatchback
+MG,ZS HEV,SUV
+MINI,Cooper,Hatchback
+MINI,Cooper Countryman,SUV
+Mercedes,Axor,Camión
+Mercedes,Clase A Hatchback,Hatchback
+Mercedes,Clase A Sedán,Sedán
+Mercedes,Clase A Sedán AMG,Sedán
+Mercedes,Clase B,Minivan
+Mercedes,Clase C Sedán,Sedán
+Mercedes,Clase E Sedán,Sedán
+Mercedes,Clase GLA,SUV
+Mercedes,Clase GLA AMG,SUV
+Mercedes,Clase GLB,SUV
+Mercedes,Clase GLC,SUV
+Mercedes,Clase SLK,Cabriolet
+Mercedes,Sprinter,Furgón
+Mercedes,Sprinter Chasis,Furgón
+Mercedes,Sprinter Combi,Minivan
+Mercedes,Viano,Minivan
+Mercedes,Vito,Furgón
+Mitsubishi,L200,Pickup
+Mitsubishi,L200 Sport,Pickup
+Mitsubishi,Lancer,Sedán
+Mitsubishi,Montero,SUV
+Mitsubishi,Outlander,SUV
+Nissan,Frontier,Pickup
+Nissan,Kicks,SUV
+Nissan,March,Hatchback
+Nissan,NP 300 Frontier,Pickup
+Nissan,Note,Hatchback
+Nissan,Pathfinder,SUV
+Nissan,Sentra,Sedán
+Nissan,Terrano II,SUV
+Nissan,Tiida,Sedán
+Nissan,Tiida Hatchback,Hatchback
+Nissan,Versa,Sedán
+Nissan,X-Trail,SUV
+Peugeot,2008,SUV
+Peugeot,205,Hatchback
+Peugeot,206,Hatchback
+Peugeot,207,Hatchback
+Peugeot,207 Compact,Hatchback
+Peugeot,207 Compact Sedán,Sedán
+Peugeot,208,Hatchback
+Peugeot,3008,SUV
+Peugeot,3008 SUV,SUV
+Peugeot,301,Sedán
+Peugeot,306,Hatchback
+Peugeot,306 Sedán,Sedán
+Peugeot,307,Hatchback
+Peugeot,307 Sedán,Sedán
+Peugeot,308,Hatchback
+Peugeot,308 CC,Cabriolet
+Peugeot,404,Clásico
+Peugeot,405,Clásico
+Peugeot,406,Clásico
+Peugeot,407,Sedán
+Peugeot,408,Sedán
+Peugeot,5008,SUV
+Peugeot,5008 SUV,SUV
+Peugeot,504,Clásico
+Peugeot,Boxer,Furgón
+Peugeot,Expert,Furgón
+Peugeot,Hoggar,Pickup
+Peugeot,Partner,Furgón
+Peugeot,Partner Patagónica,Furgón
+Porsche,911 Carrera,Coupé
+Porsche,Cayenne,SUV
+Porsche,Panamera 4S,Sedán
+RAM,1500,Pickup
+RAM,Rampage,Pickup
+Renault,11,Clásico
+Renault,12,Clásico
+Renault,18,Clásico
+Renault,19,Hatchback
+Renault,4,Clásico
+Renault,9,Clásico
+Renault,Alaskan,Pickup
+Renault,Arkana E-Tech Hybrid,SUV
+Renault,Captur,SUV
+Renault,Clio,Hatchback
+Renault,Clio Mío,Hatchback
+Renault,Duster,SUV
+Renault,Duster Oroch,Pickup
+Renault,Fluence,Sedán
+Renault,Kangoo,Furgón
+Renault,Kangoo Express,Furgón
+Renault,Kardian,SUV
+Renault,Koleos,SUV
+Renault,Kwid,Hatchback
+Renault,Laguna,Sedán
+Renault,Logan,Sedán
+Renault,Master,Furgón
+Renault,Mégane,Hatchback
+Renault,Mégane II,Hatchback
+Renault,Sandero,Hatchback
+Renault,Sandero RS,Hatchback
+Renault,Sandero Stepway,SUV
+Renault,Scénic,Minivan
+Renault,Stepway,SUV
+Renault,Symbol,Sedán
+Renault,Torino,Clásico
+Renault,Trafic,Furgón
+Renault,Twingo,Hatchback
+SEAT,Cordoba,Sedán
+SEAT,Ibiza,Hatchback
+SEAT,Leon,Hatchback
+SWM,X7,SUV
+Shineray,X30 Pasajeros,Minivan
+Subaru,Forester,SUV
+Subaru,Outback,Wagon
+Subaru,XV,SUV
+Suzuki,Fun,Hatchback
+Suzuki,Samurai,SUV
+Suzuki,Swift,Hatchback
+Suzuki,Vitara,SUV
+Toyota,86,Coupé
+Toyota,C-HR,SUV
+Toyota,Celica,Coupé
+Toyota,Corolla,Sedán
+Toyota,Corolla Cross,SUV
+Toyota,Corolla Cross Hybrid,SUV
+Toyota,Corolla Hybrid,Sedán
+Toyota,Etios Hatchback,Hatchback
+Toyota,Etios Sedán,Sedán
+Toyota,GR Yaris,Hatchback
+Toyota,Hiace,Furgón
+Toyota,Hilux,Pickup
+Toyota,Hilux GR Sport,Pickup
+Toyota,Land Cruiser,SUV
+Toyota,Prius,Hatchback
+Toyota,RAV4,SUV
+Toyota,SW4,SUV
+Toyota,Yaris,Hatchback
+Toyota,Yaris Cross,SUV
+Toyota,Yaris Sedán,Sedán
+Volkswagen,Amarok,Pickup
+Volkswagen,Beetle,Clásico
+Volkswagen,Bora,Sedán
+Volkswagen,CC,Sedán
+Volkswagen,CrossFox,SUV
+Volkswagen,Escarabajo,Clásico
+Volkswagen,Fox,Hatchback
+Volkswagen,Gol,Hatchback
+Volkswagen,Gol Country,SUV
+Volkswagen,Gol Trend,Hatchback
+Volkswagen,Golf,Hatchback
+Volkswagen,Golf Variant,Wagon
+Volkswagen,New Beetle,Hatchback
+Volkswagen,Nivus,SUV
+Volkswagen,Passat,Sedán
+Volkswagen,Passat CC,Coupé
+Volkswagen,Passat Variant,Wagon
+Volkswagen,Polo,Hatchback
+Volkswagen,Polo 5P,Hatchback
+Volkswagen,Saveiro,Pickup
+Volkswagen,Scirocco,Coupé
+Volkswagen,Senda,Hatchback
+Volkswagen,Suran,Minivan
+Volkswagen,T-Cross,SUV
+Volkswagen,Taos,SUV
+Volkswagen,Tera,SUV
+Volkswagen,Tiguan,SUV
+Volkswagen,Vento,Sedán
+Volkswagen,Vento GLI,Sedán
+Volkswagen,Vento Variant,Wagon
+Volkswagen,Virtus,Sedán
+Volkswagen,Voyage,Sedán
+Volkswagen,up!,Hatchback
+Volvo,C30,Hatchback
+Volvo,S40,Sedán
+Volvo,V70,Wagon
+Volvo,XC60,SUV
+Zanella,Force Truck,Camión
+smart,Forfour,Hatchback
+smart,Fortwo,Hatchback
