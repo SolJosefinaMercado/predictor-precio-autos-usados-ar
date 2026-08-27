@@ -1,3 +1,4 @@
+import os
 import gradio as gr
 import requests
 from predict import predecir_precio, media_provincia, media_marca, media_carroceria
@@ -151,4 +152,5 @@ with gr.Blocks(title="Predictor de Precio de Autos") as demo:
     boton.click(fn=predecir, inputs=[km, anio, provincia, marca, carroceria], outputs=resultado)
 
 if __name__ == "__main__":
-    demo.launch(theme=tema_oscuro, css=css_extra, share=True)
+    port = int(os.environ.get("PORT", 7860))
+    demo.launch(theme=tema_oscuro, css=css_extra, server_name="0.0.0.0", server_port=port)
